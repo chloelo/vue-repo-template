@@ -48,3 +48,5 @@ npm run lint
 - yup：設定驗證的規則，與 vee-validate 搭配使用
 - dayjs：處理時間、日期格式的輕巧套件
 - lodash-es：處理 js 陣列、物件、數字、字串..等實用工具庫
+- Vue-datepicker-next：日期選擇器
+- vueuse：基於 Vue Composition API 的實用函式庫
