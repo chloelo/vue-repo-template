@@ -37,6 +37,7 @@ const onSubmit = handleSubmit((values) => {
       <input
         v-model="password"
         v-bind="passwordAttrs"
+        autocomplete="on"
         name="password"
         type="password"
         placeholder="請輸入密碼"
